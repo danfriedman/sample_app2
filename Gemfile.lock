@@ -100,7 +100,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  annotate (= 2.4.0) 
+  annotate (= 2.4.0)
   factory_girl_rails (= 1.0)
   gravatar_image_tag (= 1.0.0.pre2)
   rails (= 3.0.12)
